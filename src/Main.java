@@ -5,5 +5,6 @@ public class Main {
         int a = 2;
         System.out.println("Hello World!");
         System.out.println(a);
+        System.out.println("piersza zamiana");
     }
 }
