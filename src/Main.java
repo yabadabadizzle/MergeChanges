@@ -13,6 +13,8 @@ public class Main {
         System.out.println("usunalem metdy");
 
         nowaMetoda();
+
+        nowaMMM();
     }
 
     public int met()
@@ -26,7 +28,7 @@ public class Main {
     }
 
 
-    public void nowaMMM()
+    public static void nowaMMM()
     {
 
         System.out.println("nice nie ma ");
