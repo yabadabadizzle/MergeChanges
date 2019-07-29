@@ -8,12 +8,19 @@ public class Main {
         System.out.println("piersza zamiana");
         System.out.println("druga zmiana");
 
-        System.out.println("usunalem metody");
+        System.out.println("usunalem metdy");
+
+        nowaMetoda();
     }
 
     public int met()
     {
         return 2;
+    }
+
+    public static void nowaMetoda()
+    {
+        System.out.println("nowa metoda ");
     }
 
 
