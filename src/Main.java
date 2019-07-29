@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println(a);
         System.out.println("piersza zamiana");
+        System.out.println("druga zmiana");
     }
 }
