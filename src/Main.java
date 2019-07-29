@@ -8,23 +8,8 @@ public class Main {
         System.out.println("piersza zamiana");
         System.out.println("druga zmiana");
 
-        for (int i =0;i<10;i++)
-        {
-            System.out.println("asd");
-        }
+        System.out.println("usunalem metody");
     }
 
-    public int liczba()
-    {
-        return 5;
-    }
-    public void metoda()
-    {
-        System.out.println("metoda wypisujaca cos ");
-    }
 
-    public void drugaMetoda()
-    {
-        System.out.println("druga metoda ");
-    }
 }
