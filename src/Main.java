@@ -11,5 +11,10 @@ public class Main {
         System.out.println("usunalem metody");
     }
 
+    public int met()
+    {
+        return 2;
+    }
+
 
 }
