@@ -7,5 +7,10 @@ public class Main {
         System.out.println(a);
         System.out.println("piersza zamiana");
         System.out.println("druga zmiana");
+
+        for (int i =0;i<10;i++)
+        {
+            System.out.println("asd");
+        }
     }
 }
