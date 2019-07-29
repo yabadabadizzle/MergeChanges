@@ -34,4 +34,10 @@ public class Main {
         System.out.println("nice nie ma ");
     }
 
+
+    public void  metodaDoPrzeniesieniaCherryPickiem()
+    {
+        System.out.println("przeniesienie");
+    }
+
 }
