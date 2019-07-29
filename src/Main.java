@@ -7,6 +7,8 @@ public class Main {
         System.out.println(a);
         System.out.println("piersza zamiana");
         System.out.println("druga zmiana");
+        System.out.println("druga zmiana");
+        System.out.println("druga zmiana");
 
         System.out.println("usunalem metdy");
 
@@ -23,5 +25,11 @@ public class Main {
         System.out.println("nowa metoda ");
     }
 
+
+    public void nowaMMM()
+    {
+
+        System.out.println("nice nie ma ");
+    }
 
 }
