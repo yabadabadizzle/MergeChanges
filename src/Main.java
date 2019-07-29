@@ -13,4 +13,14 @@ public class Main {
             System.out.println("asd");
         }
     }
+
+    public void metoda()
+    {
+        System.out.println("metoda wypisujaca cos ");
+    }
+
+    public void drugaMetoda()
+    {
+        System.out.println("druga metoda ");
+    }
 }
