@@ -8,4 +8,9 @@ public class Main {
         System.out.println("piersza zamiana");
         System.out.println("druga zmiana");
     }
+
+    public void metoda()
+    {
+        System.out.println("metoda wypisujaca cos ");
+    }
 }
