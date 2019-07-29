@@ -14,6 +14,10 @@ public class Main {
         }
     }
 
+    public int liczba()
+    {
+        return 5;
+    }
     public void metoda()
     {
         System.out.println("metoda wypisujaca cos ");
