@@ -36,5 +36,10 @@ public class Main {
 
 
 
+        public void metooo()
+        {
+            System.out.println("nic");
+        }
+
 
 }
