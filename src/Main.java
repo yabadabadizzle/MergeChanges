@@ -25,9 +25,6 @@ public class Main {
 
 
 
-    public void  metodaDoPrzeniesieniaCherryPickiem()
-    {
-        System.out.println("przeniesienie");
-    }
+
 
 }
