@@ -41,5 +41,10 @@ public class Main {
             System.out.println("nic");
         }
 
+        public int dawaj()
+        {
+            return 3;
+        }
+
 
 }
