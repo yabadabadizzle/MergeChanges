@@ -37,4 +37,10 @@ public class Main {
         }
 
 
+        public void emil()
+        {
+            System.out.println("Emil");
+        }
+
+
 }
